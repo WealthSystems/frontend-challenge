@@ -2,23 +2,23 @@
 
 O objetivo deste desafio é avaliar seu domínio em desenvolvimento front-end.
 
-Este é um teste para todos os níveis, não esperamos que você conclua 100% ou utilize todos os conceitos de front-end citados, nós só queremos saber um pouco sobre seu conhecimento e a forma como você desenvolve.
+Este é um teste para todos os níveis, portanto, não esperamos que você conclua 100% ou utilize todos os conceitos de front-end citados. Queremos saber sobre seu conhecimento e a forma como você desenvolve.
 
-Esperamos que você construa uma SPA com Frameworks, bibliotecas JavaScript e se julgar necessário arquiteturas de fluxos de dados de sua escolha e gostaríamos que você registrasse todo o processo de desenvolvimento.
+Esperamos que construa uma SPA com Frameworks, bibliotecas JavaScript e, se julgar necessário, arquiteturas de fluxos de dados de sua escolha. Além disso, gostaríamos que registrasse todo o processo de desenvolvimento.
 
-Queremos ver a legibilidade e seu design de código, as boas práticas de desenvolvimento, Design Patterns JavaScript utilizados e todo o seu processo de trabalho. Você está livre para criar, Commitar e organizar seu projeto.
+Queremos ver a legibilidade e seu design de código, as boas práticas de desenvolvimento, Design Patterns JavaScript utilizados e todo o seu processo de trabalho. Você está livre para criar, commitar e organizar seu projeto.
 
 ## O Desafio
 
-Você deverá desenvolver uma tela de Resumo de um Cliente, nela serão apresentadas informações sobre o cliente, oportunidades, informações financeiras e atividades. Gostamos muito de mapas e indicadores.
+Você deverá desenvolver uma tela de resumo de um cliente. Nela serão apresentadas informações sobre o cliente, oportunidades, informações financeiras e atividades. Gostamos muito de mapas e indicadores.
 
 ![Resumo de Cliente](./images/client-summary.png)
 
-Crie um projeto para apresentar a tela, você pode criar componentes com o estilo que desejar, o protótipo é apenas uma sugestão, use sua criatividade a vontade.
+Crie um projeto para apresentar a tela e componentes com o estilo que desejar. O protótipo é apenas uma sugestão, tenha liberdade para usar sua criatividade a vontade!
 
-A forma de componentização é livre e você pode priorizar partes que demonstrem melhor seu conhecimento em front-end. Testes automatizado, documentação do projeto e componentes são diferenciais.
+A forma de componentização é livre e você pode priorizar partes que demonstrem melhor seu conhecimento em front-end. Testes automatizados, documentação do projeto e componentes são diferenciais.
 
-Você pode criar um arquivo JSON ou utilizar uma ferramenta de Mock para persistir a estrutura de uma API para a tela, também vamos avaliar como você organiza a estrutura de um recurso.
+Fica a seu critério criar um arquivo JSON ou utilizar uma ferramenta de Mock para persistir a estrutura de uma API para a tela. Também vamos avaliar como você organiza a estrutura de um recurso.
 
 Documente tudo que julgar necessário, inclusive as motivações de diferentes bibliotecas e Frameworks utilizadas.
 
