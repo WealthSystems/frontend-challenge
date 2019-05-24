@@ -40,6 +40,6 @@ Documente tudo que julgar necessário, inclusive as motivações de diferentes b
 * Crie um repositório para o projeto em sua conta pessoal no GitHub;
 * Você pode utilizar algum Boilerplate para criar a SPA, mas faça um Commit separado com as adições;
 * Crie um README.md com as instruções para a execução do projeto;
-* Candidate-se na vaga desejada pela nossa plataforma de recrutamento (https://wealthsystems.gupy.io/) e nos envie o link do repositório junto a candidatura.
+* Nos envie o link do repositório via Plataforma GUPY por onde recebeu essas instruções.
 
 
