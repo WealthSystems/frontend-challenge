@@ -14,7 +14,7 @@ Você deverá desenvolver uma tela de resumo de um cliente. Nela serão apresent
 
 ![Resumo de Cliente](./images/client-summary.png)
 
-Crie um projeto para apresentar a tela e componentes com o estilo que desejar. O protótipo é apenas uma sugestão, tenha liberdade para usar sua criatividade a vontade!
+Crie um projeto para apresentar a tela e componentes com o estilo que desejar.
 
 A forma de componentização é livre e você pode priorizar partes que demonstrem melhor seu conhecimento em front-end. Testes automatizados, documentação do projeto e componentes são diferenciais.
 
