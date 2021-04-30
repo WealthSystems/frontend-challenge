@@ -16,7 +16,7 @@ Você deverá desenvolver uma tela de resumo de um cliente. Nela serão apresent
 
 Crie um projeto para apresentar a tela e componentes com o estilo que desejar.
 
-A forma de componentização é livre e você pode priorizar partes que demonstrem melhor seu conhecimento em front-end. Testes automatizados, documentação do projeto e componentes são diferenciais.
+A forma de componentização é livre e você pode priorizar partes que demonstrem melhor seu conhecimento em front-end. Testes automatizados e unitários, documentação do projeto e componentes são diferenciais.
 
 Fica a seu critério criar um arquivo JSON ou utilizar uma ferramenta de Mock para persistir a estrutura de uma API para a tela. Também vamos avaliar como você organiza a estrutura de um recurso.
 
@@ -26,12 +26,14 @@ Documente tudo que julgar necessário, inclusive as motivações de diferentes b
 
 * Utilize React, não é obrigatório, mas adoramos React;
 * Dê prioridade em resolver problemas com funções do próprio ECMAScript 6.
+* Dê prioridade na criação de testes.
 
 ## O que vamos avaliar
 
 * Boas práticas de programação;
 * Domínio de Frameworks e ES6;
 * Componentização e organização do seu projeto;
+* Testes aplicados;
 * Documentação do projeto e justificativas de escolhas técnicas;
 * O processo de desenvolvimento com Git.
 
